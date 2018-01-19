@@ -604,3 +604,13 @@ ul li {
 .site-footer .social-block li a:hover, .site-footer .social-block li a:focus {
   opacity: 0.8;
 }
+.site-footer a {
+  color: #ffffff;
+}
+.site-footer a:hover {
+  color: #337ab7;
+}
+.sublist li {
+  padding-left: 15px;
+  padding-bottom: 10px;
+}

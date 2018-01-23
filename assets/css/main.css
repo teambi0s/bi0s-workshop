@@ -630,6 +630,7 @@ ul li {
 	border: none !important;
 	display: table-cell;
 	padding: 6px 10px;
+
 }
 .divTableHeading {
 	background-color: #EEE;
@@ -643,4 +644,23 @@ ul li {
 }
 .divTableBody {
 	display: table-row-group;
+}
+.image-preview{
+    width: 280px;
+    height: 150px
+    ;
+}
+.caption{
+  display:block;
+  position:relative;
+  bottom:0;
+  left:0;
+  right:0;
+  background:#000;
+  background:rgba(0, 0, 0, 0.6);
+  color:#FFF;
+  padding: 20px, 30px;
+  font-size: 14px;
+  top:-60px;
+  left: 2px;
 }

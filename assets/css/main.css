@@ -627,9 +627,9 @@ ul li {
 	display: table-header-group;
 }
 .divTableCell, .divTableHead {
-	border: 1px solid #999999;
+	border: none !important;
 	display: table-cell;
-	padding: 3px 10px;
+	padding: 6px 10px;
 }
 .divTableHeading {
 	background-color: #EEE;

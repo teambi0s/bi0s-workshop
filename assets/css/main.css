@@ -184,7 +184,7 @@ ul li {
  * 3.3 Helper Class: list
  */
 .list-arrow-right li::before {
-  content: "\f3d3";
+    content: "\f3d3";
 }
 
 /*
@@ -663,4 +663,62 @@ ul li {
   font-size: 14px;
   top:-60px;
   left: 2px;
+}
+.areas-1{
+  float: left;
+}
+
+.areas-2{
+  float: right
+}
+.inline-block {
+  display: inline-block;
+  height: 10px;
+  width: 10px;
+}
+#icon-1{
+  float: left;
+  width: 215%;
+  height: 50%;
+  margin: auto;
+  margin-bottom: 2em;">
+}
+
+#icon-2{
+  float: left;
+  width: 215%;
+  height: 50%;
+  margin: auto;
+  margin-bottom: 2em;">
+}
+
+#icon-3{
+  float: left;
+  width: 215%;
+  height: 50%;
+  margin: auto;
+  margin-bottom: 3em;">
+}
+.flex-container{
+	width: 80%;
+	min-height: 300px;
+	margin: 0 auto;
+	display: -webkit-flex; /* Safari */
+	display: flex; /* Standard syntax */
+}
+.flex-container .column{
+	padding: 10px;
+	background: #dbdfe5;
+	-webkit-flex: 1; /* Safari */
+	-ms-flex: 1; /* IE 10 */
+	flex: 1; /* Standard syntax */
+}
+
+.col-xs-4{
+font-size:90%
+}
+
+.bg-2{
+  margin: auto;
+  margin-top: 14em;">
 }

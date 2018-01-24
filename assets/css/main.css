@@ -707,6 +707,7 @@ ul li {
 	display: flex; /* Standard syntax */
 }
 .flex-container .column{
+  height: 1450px;
 	padding: 10px;
 	background: #dbdfe5;
 	-webkit-flex: 1; /* Safari */

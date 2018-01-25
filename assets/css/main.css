@@ -678,7 +678,7 @@ ul li {
 }
 #icon-1{
   float: left;
-  width: 215%;
+  width: 100%;
   height: 50%;
   margin: auto;
   margin-bottom: 2em;">
@@ -686,7 +686,7 @@ ul li {
 
 #icon-2{
   float: left;
-  width: 215%;
+  width: 100%;
   height: 50%;
   margin: auto;
   margin-bottom: 2em;">
@@ -694,7 +694,7 @@ ul li {
 
 #icon-3{
   float: left;
-  width: 215%;
+  width: 100%;
   height: 50%;
   margin: auto;
   margin-bottom: 3em;">

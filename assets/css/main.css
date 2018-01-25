@@ -719,11 +719,19 @@ ul li {
 	flex: 1; /* Standard syntax */
 }
 
-.col-xs-4{
-font-size:90%
-}
+
 
 .bg-2{
   margin: auto;
   margin-top: 14em;">
+}
+
+@media only screen and (max-width: 480px) {.training-icon {
+  margin-left:38%;
+} .training-text {
+  text-align: center;
+}
+  .training-icon-text{
+  text-align: center;
+}
 }

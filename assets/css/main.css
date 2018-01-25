@@ -669,8 +669,12 @@ ul li {
 }
 
 .areas-2{
-  float: right
+  float: right;
 }
+@media only screen and (max-width: 480px) {.areas-2{
+  float: left;
+} }
+
 .inline-block {
   display: inline-block;
   height: 10px;
